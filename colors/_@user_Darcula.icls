@@ -1,0 +1,103 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-06-05T10:57:34</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2018.1.4.0.0</property>
+    <property name="modified">2018-10-01T12:10:00</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="121315" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+    <option name="GUTTER_BACKGROUND" value="26282a" />
+  </colors>
+  <attributes>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a7a9d0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="495448" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="554c4d" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="bc96b7" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="bf9abe" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOT">
+      <value>
+        <option name="FOREGROUND" value="626567" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="939cd0" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="aaaeb9" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="c0bba6" />
+      </value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="56595b" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="8d999b" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="5b5b59" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="6d5636" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="9dabba" />
+        <option name="BACKGROUND" value="40503" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="709592" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
