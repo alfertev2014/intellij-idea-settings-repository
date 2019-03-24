@@ -1,6 +1,9 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://java.sun.com/dtd/web-app_2_3.dtd" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/d664ad10_web-app_2_3.dtd" />
+    <resource url="http://java.sun.com/xml/ns/javaee" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/beee9943_web-app_3_0.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/32e969bc_dbchangelog-3.5.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog-ext" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/99f6323_dbchangelog-ext.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/9b192256_xml.xsd" />
   </component>
 </application>
