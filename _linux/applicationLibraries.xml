@@ -43,16 +43,16 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.6 (intercom-backend) interpreter library">
+    <library name="Python 3.7 (intercom-backend) interpreter library">
       <CLASSES>
-        <root url="file:///usr/lib64/python3.6" />
-        <root url="file:///usr/lib64/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib64/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/code/connectome/python/intercom-backend/lib64/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib64/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/code/connectome/python/intercom-backend/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
+        <root url="file:///usr/lib64/python3.7" />
+        <root url="file:///usr/lib64/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib64/python3.7/site-packages" />
+        <root url="jar://$USER_HOME$/code/connectome/python/intercom-backend/lib64/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib64/python3.7/site-packages/pip-10.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib/python3.7/site-packages" />
+        <root url="jar://$USER_HOME$/code/connectome/python/intercom-backend/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" />
         <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/226112868" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
@@ -62,14 +62,14 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/lib64/python3.6" />
-        <root url="file:///usr/lib64/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib64/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/code/connectome/python/intercom-backend/lib64/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib64/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/code/connectome/python/intercom-backend/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
+        <root url="file:///usr/lib64/python3.7" />
+        <root url="file:///usr/lib64/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib64/python3.7/site-packages" />
+        <root url="jar://$USER_HOME$/code/connectome/python/intercom-backend/lib64/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib64/python3.7/site-packages/pip-10.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib/python3.7/site-packages" />
+        <root url="jar://$USER_HOME$/code/connectome/python/intercom-backend/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/code/connectome/python/intercom-backend/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" />
         <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/226112868" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
